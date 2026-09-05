@@ -6,6 +6,13 @@ A robust, production-inspired payment processing pipeline that securely tokenize
 
 ---
 
+## 🌐 Live Demo
+
+| Component | URL |
+| :--- | :--- |
+| 💳 **Live Application** | [https://payfast-payment-app.duckdns.org](https://payfast-payment-app.duckdns.org) |
+
+---
 
 ## 🚀 Overview
 
